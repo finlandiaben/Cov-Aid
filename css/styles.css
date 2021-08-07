@@ -7,7 +7,8 @@ body {
 h1 {
   font-family: 'Teko', sans-serif;
 }
-hr{
+
+hr {
   background-color: none;
   border-style: none;
   border-top: solid;
@@ -18,51 +19,61 @@ hr{
   position: relative;
   left: -200px;
 }
-.Color-Cov{
+
+.Color-Cov {
   color: red;
 }
-.Color-Aid{
-  color:blue;
+
+.Color-Aid {
+  color: blue;
 }
+
 .titleContainer {
+  position: absolute;
   background-color: #0F033B;
   padding: 10px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
 }
-.titleCon{
+
+.titleCon {
   color: #F1F1F1;
 }
-.attributes{
+
+.attributes {
   font-size: 15px;
   font-family: 'Comfortaa', cursive;
   color: #F1F1F1;
   list-style-position: inside;
   margin: 20px;
-
-
 }
-#Title_ofWeb{
+
+#Title_ofWeb {
   font-size: 60px;
   position: relative;
   left: -500px;
   color: #F1F1F1;
-
 }
-#description_title{
+
+#description_title {
   position: relative;
   font-family: "Comfortaa", cursive;
   font-size: 20px;
   top: -55px;
   left: -350px;
 }
-#Title_hr{
+
+#Title_hr {
   position: relative;
   top: -55px;
   color: #F1F1F1;
 }
-#topDiv{
 
-}
-#logo1{
+#logo1 {
   position: relative;
   top: -310px;
   right: -690px;
